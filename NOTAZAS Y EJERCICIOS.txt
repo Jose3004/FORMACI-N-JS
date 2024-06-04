@@ -1,0 +1,23 @@
+IMPORTANTE: Los valores tipo string, deben de ir en comillas: "de esta forma".
+
+console.log((1-8) * (6+4));
+console.log(( 8.6 - 7) /50);
+console.log((5 * 4) -30);
+console.log(((5 / 4) + (50*0)-(50*2)));
+console.log((5 % 4) -1.1);
+
+QUIZ SOBRE OPERADORES LOGICOS:
+(check = nice) (meh = revisar)
+1)console.log(!true); = false  (check)
+2)console.log(!!false); = false (check)
+3)console.log(false && false); = false (check)
+4)console.log(true && true); = true (check)
+5)console.log(false && true); = false (check)
+6)console.log(true && false); = false (check)
+7)console.log(false || false); = false (check)
+8)console.log(false || true); = true (check)
+9)console.log(true || false); = true (check)
+10)console.log(!false || (false && true)); = false (meh) me falto ponerle el !, por lo tanto es true 
+11)console.log(!(false || true) && true); = true (meh) puse el ! por dentro de la operación ||, por lo tanto es false
+
+https://pythontutor.com/render.html#mode=display (pagina para visualizar la funcionalidad del codigo)
