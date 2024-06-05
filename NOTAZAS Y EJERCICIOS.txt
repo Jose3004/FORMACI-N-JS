@@ -21,3 +21,6 @@ QUIZ SOBRE OPERADORES LOGICOS:
 11)console.log(!(false || true) && true); = true (meh) puse el ! por dentro de la operación ||, por lo tanto es false
 
 https://pythontutor.com/render.html#mode=display (pagina para visualizar la funcionalidad del codigo)
+
+El metodo prompt, sirve para indicarle al usuario que debe de digitar los datos que se le estan solicitando por la pantalla, todo esto a través de la creación de un pop up.
+El metodo alert, se utiliza para mostrar estos mensajes previamente solicitados por el prompt, de este modo el usuario podra verlos en su pantalla con el pop up.

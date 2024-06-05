@@ -41,4 +41,4 @@ function promedioDosNumeros (n1 , n2){
     console.log((n1 + n2 ) /2);
 }
 promedioDosNumeros(5,7);//al momento de invocar una función tener mucho cuidado al momento de realizar este paso, ya que si se ubica dentro de las llaves no arrojara nada (eso me paso en un principio) siempre se realizara POR FUERA DE LAS LLAVES llamando a la función y pasandole su argumento (el valor a imprimir).
-promedioDosNumeros(4,2);
+promedioDosNumeros(4,2);z
