@@ -42,3 +42,11 @@ console.log(nombre.length);
 console.log(nombre[2]);
 console.log(nombre.indexOf("U"));
 console.log("She's boombastic");
+
+/* -------- Metodos para convertir el string en mayuscula o minuscula ------- */
+console.log("It ain't over till it's over".toUpperCase());
+console.log("PerO QUE MIERDA me mandas RODRigo".toLowerCase());
+
+/* -------------- Metodo trim para eliminar espacios en blanco -------------- */
+console.log("It ain't over till it's over"   .trim());
+
